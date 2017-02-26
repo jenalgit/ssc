@@ -1,0 +1,22 @@
+Less Web Development Cookbook 2015 (5/1)
+CSS Secrets - Better Solutions to Everyday Web Design Problems 2015 (4.5/30)
+The Book of CSS3 - A Developer's Guide to the Future of Web Design 2nd edition 2015 (4.5/7)
+Transforms in CSS - Revamp the Way You Design 2015 (2/1)
+Basic Visual Formatting in CSS - Layout Fundamentals in CSS 2015
+Colors, Backgrounds, and Gradients - Adding Individuality with CSS 2015
+Less Web Development Essentials 2nd edition 2015
+Learning Less.js 2014 (5/2)
+CSS Quick Syntax Reference 2014
+CSS3 - The Missing Manual 3rd edition 2013 (4.5/107)
+CSS3 Foundations 2013 (4.5/31)
+CSS Fonts 2013 (4.5/2)
+CSS and Documents 2012 (3.5/26)
+Beginning CSS3 - Mastering the Language of Web Design 2012 (3.5/3)
+CSS Cookbook 3rd edition 2010 (4.5/28)
+CSS - The Definitive Guide 3rd edition 2006 (4.5/51)
+Sass and Compass for Designers 2013 (4.5/26)
+Sass and Compass in Action 2013 (4.5/15)
+Selectors, Specificity, and the Cascade 2012 (5/1)
+Pro CSS3 Animation 2012 (4/5)
+Values, Units, and Colors 2012 (4/1)
+Pragmatic Guide to Sass 2011 (4/5)
